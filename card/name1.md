@@ -1,30 +1,30 @@
-#ÈËÃû¿¨  Michael Merzenich
+ï»¿#äººåå¡  Michael Merzenich
 
-##Ó¡Ïó£º
-Éñ¾­¿ÆÑ§¼Ò
-ÊéÖĞ´óÁ¿Ìáµ½ËûÉè¼ÆµÄÇÉÃîµÄÊµÑéÀ´Ö¤Ã÷´óÄÔ¿ÉËÜĞÔ¡£
+##å°è±¡ï¼š
+ç¥ç»ç§‘å­¦å®¶
+ä¹¦ä¸­å¤§é‡æåˆ°ä»–è®¾è®¡çš„å·§å¦™çš„å®éªŒæ¥è¯æ˜å¤§è„‘å¯å¡‘æ€§ã€‚
 
-##Àı×Ó£º
-ÈçĞ¡ÊóµÄÊÖÖ¸Óë´óÄÔµØÍ¼¡£
-°üÀ¨Æ¤·ôÒÆÖ²£¬ÊÖÖ¸µÄºÏ²¢Óë·Ö¿ª¡£
-Ö¤Ã÷ÁËÉñ¾­ÔªµÄÒ»Æğ·¢ËÍ»áÁ¬½ÓÔÚÒ»Æğ¡£
-ÒÔ¼°³ÉÄêÈËµÄ´óÄÔÒ²¾ßÓĞ¿ÉËÜĞÔ
+##ä¾‹å­ï¼š
+å¦‚å°é¼ çš„æ‰‹æŒ‡ä¸å¤§è„‘åœ°å›¾ã€‚
+åŒ…æ‹¬çš®è‚¤ç§»æ¤ï¼Œæ‰‹æŒ‡çš„åˆå¹¶ä¸åˆ†å¼€ã€‚
+è¯æ˜äº†ç¥ç»å…ƒçš„ä¸€èµ·å‘é€ä¼šè¿æ¥åœ¨ä¸€èµ·ã€‚
+ä»¥åŠæˆå¹´äººçš„å¤§è„‘ä¹Ÿå…·æœ‰å¯å¡‘æ€§
 
 >Michael M. Merzenich (born 1942 in Lebanon, Oregon) is a professor emeritus neuroscientist at the University of California, San Francisco. His contributions to the field are numerous. He took the sensory cortex maps developed by his predecessors like Archie Tunturi, Clinton Woolsey, Vernon Mountcastle, Wade Marshall, and Philip Bard, and refined them using dense micro-electrode mapping techniques. Using this, he definitively showed there to be multiple somatotopic maps of the body in the postcentral sulcus,[4][5] and multiple tonotopic maps of the acoustic inputs in the superior temporal plane.[6]
 
 >Merzenich holds nearly 100 U.S. patents.
-In 2016, Dr. Merzenich was awarded one of the world¡¯s top neuroscience prizes, the Kavli Prize, for his achievements in the field of brain plasticity
+In 2016, Dr. Merzenich was awarded one of the worldâ€™s top neuroscience prizes, the Kavli Prize, for his achievements in the field of brain plasticity
 
 >In 2007, he retired from his long career at UCSF as Francis A. Sooy Professor and Co-Director of the Keck Center for Integrative Neuroscience. He was elected to the National Academy of Sciences in 1999 and the Institute of Medicine in 2008.
 
-##À´Ô´
+##æ¥æº
 wiki
 https://en.wikipedia.org/wiki/Michael_Merzenich#Federal_grants
-¸öÈË¹ÙÍø
+ä¸ªäººå®˜ç½‘
 https://www.michaelmerzenich.com/bio/
 
-£¨Ñ°ÕÒÌáÊ¾£¬ÖĞÎÄÃû×Ö·­Òë¸÷ÓĞ²»Í¬£¬Ö±½ÓËÑÓ¢ÎÄÔ­Ãû£©
+ï¼ˆå¯»æ‰¾æç¤ºï¼Œä¸­æ–‡åå­—ç¿»è¯‘å„æœ‰ä¸åŒï¼Œç›´æ¥æœè‹±æ–‡åŸåï¼‰
 
-##³ö´¦
-¡¶ÖØËÜ´óÄÔ£¬ÖØËÜÈËÉú¡·
+##å‡ºå¤„
+ã€Šé‡å¡‘å¤§è„‘ï¼Œé‡å¡‘äººç”Ÿã€‹
 
